@@ -7,6 +7,7 @@ public class TestFirst {
 		int i =0;
 		while (flag) {
 			System.out.println("therd " + i);
+			
 			i ++;
 			if(i>=10) {
 				flag = false;
