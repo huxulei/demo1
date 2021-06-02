@@ -4,3 +4,5 @@ git has a mutable index called stage
 git tracks change of files。
 
 test branch dev
+
+test2 branch dev`
